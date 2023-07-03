@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/allstarsite/static/css/main.7874e48a.css",
-    "main.js": "/allstarsite/static/js/main.59104ad0.js",
+    "main.js": "/allstarsite/static/js/main.aead356f.js",
     "static/js/787.1e561484.chunk.js": "/allstarsite/static/js/787.1e561484.chunk.js",
     "static/media/liquorBG.jpg": "/allstarsite/static/media/liquorBG.fb3c72fbf7e6e2e396f2.jpg",
     "static/media/liquorBG2.webp": "/allstarsite/static/media/liquorBG2.db48ac5f278ca1d64cfd.webp",
@@ -10,11 +10,11 @@
     "static/media/liquorLogo.png": "/allstarsite/static/media/liquorLogo.f9ba7290af6c4f70e01c.png",
     "index.html": "/allstarsite/index.html",
     "main.7874e48a.css.map": "/allstarsite/static/css/main.7874e48a.css.map",
-    "main.59104ad0.js.map": "/allstarsite/static/js/main.59104ad0.js.map",
+    "main.aead356f.js.map": "/allstarsite/static/js/main.aead356f.js.map",
     "787.1e561484.chunk.js.map": "/allstarsite/static/js/787.1e561484.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7874e48a.css",
-    "static/js/main.59104ad0.js"
+    "static/js/main.aead356f.js"
   ]
 }
